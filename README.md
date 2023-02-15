@@ -8,6 +8,6 @@ Most repositories in the Dashevo GitHub organization have been archived as activ
 
 Previously, all development related to Dash Platform happened under the dashevo GitHub organization. These repositories have since moved to the DashPay organization. This was done to consolidate all Dash-related activity under one organization.
 
-[Vist our website](https://www.dash.org/)to know more about Dash. 
+[Vist our website](https://www.dash.org/) to know more about Dash. 
 
 See the [Dash Platform documentation](https://dashplatform.readme.io/docs) for further information about Dash's Web3 platform.
