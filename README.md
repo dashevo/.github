@@ -4,10 +4,10 @@
 
 IMPORTANT NOTE!!
 
-The Dashevo GitHub repo has been archived. The repos have all been relocated to https://github.com/dashpay
+Most repositories in the Dashevo GitHub organization have been archived as active development shifted to https://github.com/dashpay.
 
-Previously, all development related to Dash Platform happened under the dashevo Github org. These repositories have since moved to the DashPay repo. This was done to consolidate all the Platform-related activity under one platform.
+Previously, all development related to Dash Platform happened under the dashevo GitHub organization. These repositories have since moved to the DashPay organization. This was done to consolidate all Dash-related activity under one organization.
 
-Want to know more about Dash? https://www.dash.org/
+[Vist our website](https://www.dash.org/)to know more about Dash. 
 
-Read this to know more about Dash Platform. https://dashplatform.readme.io/docs
+See the [Dash Platform documentation](https://dashplatform.readme.io/docs) for further information about Dash's Web3 platform.
